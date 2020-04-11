@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Gotu';
+  src: local('Gotu'), url(./Gotu-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'VT323';
+  src: local('VT323'), url(./VT323-Regular.ttf) format('truetype');
+}
+
+h1 {
+	font-family: 'VT323', 'Gotu';
+	color: cornflowerblue;
+	font-size: 15px;
+}
